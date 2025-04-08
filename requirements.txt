@@ -1,0 +1,14 @@
+ipykernel
+torch
+torchvision
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+scipy
+
+
+# Optional: For GPU support
+#torch==2.0.0+cu117
+#torchvision==0.15.0+cu117
